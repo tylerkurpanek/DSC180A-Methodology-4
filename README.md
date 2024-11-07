@@ -1,2 +1,2 @@
 # DSC180A-Methodology-4
-Tyler Nicolas Kurpanek
+Trey Christian Scheid
